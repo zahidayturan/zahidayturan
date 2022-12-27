@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Zahid</h1>
-<h3 align="center">Computer Engineering Student at Ondokuz Mayıs University</h3>
+<h1 align="left">Hi, I'm Zahid</h1>
+<h3 align="left">Computer Engineering Student at Ondokuz Mayıs University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidayturan&label=Profile%20views&color=df360c&style=flat" alt="zahidayturan" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidayturan&label=Profile%20views&color=df360c&style=flat" alt="zahidayturan" /> </p> -->
 
 <p align="left">
 </p>
