@@ -1,21 +1,78 @@
 <h1 align="left">Hi, I'm Zahid</h1>
-<h4 align="left">Computer Engineering Student at Ondokuz Mayıs University</h4>
+<h3 align="left">Computer Engineer - Software Developer</h4>
 
-[My Website](https://zahidayturan.github.io/) &emsp;
+[My Website (Portfolio)](https://zahidayturan.github.io/) &emsp;
 [My Email](mailto:zahid.ayturan@bil.omu.edu.tr)
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidayturan&label=Profile%20views&color=df360c&style=flat" alt="zahidayturan" /> </p> -->
 
-<h4 align="left">Languages and Tools:</h4>
+<div align="left">
+  <h5>Prog. Lang.
+    <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo" />
+    <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo" />
+    <img src="https://skillicons.dev/icons?i=cs" height="32" alt="csharp logo" />
+    <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo" />
+    <img src="https://skillicons.dev/icons?i=dart" height="32" alt="dart logo" />
+    <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo" />
+  </h5>
+</div>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="32" height="32"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="32" height="32"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="32" height="32"/> </a>  </p>
+<div align="left">
+  <h5>Frontend Dev.
+    <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
+    <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
+    <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo" />
+    <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
+    <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="flutter logo" />
+  </h5>
+</div>
 
-<p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="32" height="32"/> </a>  &emsp;&emsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="32" height="32"/> </a>  </p>
+<div align="left">
+  <h5>CSS Fwks. & Libs.
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="bootstrap logo" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo" />
+  </h5>
+</div>
 
+<div align="left">
+  <h5>Backend Dev. & Fwks.
+    <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo" />
+    <img src="https://skillicons.dev/icons?i=spring" height="32" alt="spring logo" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="32" alt="dot-net logo" />
+  </h5>
+</div>
 
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32" height="32"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="32" height="32"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="32" height="32"/> </a> &emsp;&emsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/> </a>  </p>
+<div align="left">
+  <h5>Databases & DB Serv.
+    <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="32" alt="postgresql logo" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="sqlite logo" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="32" alt="firebase logo" />
+    <img src="https://skillicons.dev/icons?i=supabase" height="32" alt="supabase logo" />
+  </h5>
+</div>
 
+<div align="left">
+  <h5>Dev. Tools & Platf. & OS
+    <img src="https://skillicons.dev/icons?i=postman" height="32" alt="postman logo" />
+    <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo" />
+    <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo" />
+    <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo" />
+    <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo" />
+  </h5>
+</div>
 
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="32" height="32"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="32" height="32"/> </a> </p>
+<div align="left">
+  <h5>Design Tools
+    <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo" />
+    <img src="https://skillicons.dev/icons?i=ps" height="32" alt="adobephotoshop logo" />
+    <img src="https://skillicons.dev/icons?i=ai" height="32" alt="adobeillustrator logo" />
+    <img src="https://skillicons.dev/icons?i=pr" height="32" alt="adobepremierepro logo" />
+  </h5>
+</div>
+
+<h5>and others...</h5>
+###
 
