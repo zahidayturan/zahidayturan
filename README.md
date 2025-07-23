@@ -14,6 +14,7 @@
     <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="32" alt="csharp logo" /></a>
     <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo" /></a>
     <a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" height="32" alt="dart logo" /></a>
+    <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" height="32" alt="kotlin logo"  /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo" /></a>
   </h5>
 </div>
